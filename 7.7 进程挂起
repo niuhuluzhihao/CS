@@ -18,3 +18,8 @@
 
 os如何调度PCB：
     状态队列
+
+
+P$!velocityTool.camelCaseName(${question.frontendQuestionId})$!velocityTool.camelCaseName(${question.titleSlug})
+
+P$!{question.frontendQuestionId}$!velocityTool.camelCaseName(${question.titleSlug})
