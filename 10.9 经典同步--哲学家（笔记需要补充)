@@ -1,0 +1,9 @@
+哲学家问题
+ 五个哲学家，五把叉子，去吃饭
+
+take_forks的定义
+    功能：要么拿到两把叉子，要不拿不到
+
+test_take_left_right_forks
+
+
